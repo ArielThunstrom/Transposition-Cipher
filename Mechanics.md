@@ -10,3 +10,5 @@
 
 ## Is it symmetric, does the same process decrypt as encrypt?
 It is symmetric because even though the algorithms for encryption and decryption are different, the same key is used. The decryption key can be derived from the encrption key.
+
+[Click here for more information](https://www.dcode.fr/transposition-cipher)
