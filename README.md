@@ -1,10 +1,14 @@
 # Transposition-Cipher
-[Final Analysis](FinalAnalysis.md)
 
-[Computer Code](Computer.md)
+[Historical Context](History.md)
+
+[Mechanics](Mechanics.md)
 
 [Mathematical Analysis](Mathematical.md)
 
-[Historical Context](History.md)
+[Computer Code](Computer.md)
+
+[Final Analysis](FinalAnalysis.md)
+
 
 
